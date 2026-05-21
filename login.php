@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <div class="login-left" aria-hidden="true">
     <div class="left-inner">
       <h1>The Nairobi National Polytechnic</h1>
-      <p>Student Portal — access your courses, register units and manage your profile.</p>
+      <p>Readmission Portal — access your courses, register units and manage your profile.</p>
     </div>
   </div>
 

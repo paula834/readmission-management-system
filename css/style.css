@@ -9,7 +9,7 @@ body.login-v1 {
     font-family: "Inter", sans-serif;
     overflow: hidden;
     /* 🔥 FULL PAGE BACKGROUND IMAGE HERE */
-    background: url('../uploads/front\ school.jpeg') no-repeat center center fixed;
+    background: url('../uploads/school photo.jpg') no-repeat center center fixed;
     background-size: cover;
 }
 body.login-v1::before {
